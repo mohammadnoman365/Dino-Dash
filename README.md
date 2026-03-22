@@ -25,7 +25,7 @@ Dino Dash is a 3D platformer mobile game. The player controls a dinosaur and mus
 - **Platform:** Mobile (Android)
 
 ## Assets Credit
-> [www.gameart2d.com]((https://www.gameart2d.com/))
+> [www.gameart2d.com](https://www.gameart2d.com/)
 
 ## Demo Video
 > [Watch Demo](https://youtu.be/LzQqWaMkM_Q)
