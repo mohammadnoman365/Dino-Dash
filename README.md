@@ -24,9 +24,6 @@ Dino Dash is a 3D platformer mobile game. The player controls a dinosaur and mus
 - **Language:** C#
 - **Platform:** Mobile (Android)
 
-## Screenshots
-> Add your game screenshots here
-
 ## Demo Video
 > [Watch Demo](https://youtu.be/LzQqWaMkM_Q)
 
