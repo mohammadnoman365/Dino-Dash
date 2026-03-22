@@ -1,0 +1,12 @@
+# ninja log v5
+169	2390	7919956226488194	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2cd35f0e7e4eedaa
+2392	4548	7919956242374562	D:/Unity/2D_DinoGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/681s5w1m/obj/arm64-v8a/libswappywrapper.so	a12912f1d12dfffc
+109	6094	7919956262838703	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	631796ed425ef16b
+14	6268	7919956263569880	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f140f269deed2409
+131	6273	7919956260607686	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b946f5a1adc69734
+145	6421	7919956264804783	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e8cf397f7c1016b
+26	6599	7919956267384207	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e15cb0a4fcaeed4a
+96	7099	7919956271752685	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b018adc2b566b236
+39	7198	7919956273901669	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8d62d908d23c8cc0
+1	7473	7919956277029553	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b62d43f41ff6f8c2
+7473	8858	7919956289215962	D:/Unity/2D_DinoGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/681s5w1m/obj/arm64-v8a/libgame.so	339d262f327b2c16
